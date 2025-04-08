@@ -1,0 +1,4 @@
+.imageContainer {
+  @apply relative 2xl:h-[500px] h-[500px] xl:h-[400px] lg:h-[300px] md:h-[450px] sm:h-[380px];
+  /* @apply ; */
+}
